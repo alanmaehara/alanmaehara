@@ -1,13 +1,13 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="" alt="header"/>
+  <img src="header.gif" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
+&nbsp;
 
 <p align="center">
     <a href="https://github.com/alanmaehara" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alanmaehara-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ammaehara" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ammaehara" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanmiti@gmail.com"></a>
+    <a href="https://www.linkedin.com/in/ammaehara" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanmiti@gmail.com"></a>
 
 
 <h2 align="center"> 👨‍💻 Who am I</h2>
@@ -84,13 +84,13 @@
 ---
 <h2 align="left"> 📑 Main Projects </h2>
 
-#### [Does religion generate prosocial behavior?](https://github.com/alanmaehara/religious-prosocial-behavior)
+### [Does religion generate prosocial behavior?](https://github.com/alanmaehara/religious-prosocial-behavior)
 
 A multivariate linear regression modeling approach to measure religious prosocial behavior in economics experiments. In this paper, association between religion and prosocial behavior were investigated for 48 Buddhist practitioners in Japan. 
 
 Repository: https://github.com/alanmaehara/religious-prosocial-behavior
 
-#### [Data Science in Production: A Sales Forecast Project Using Machine Learning for Rossmann](https://github.com/alanmaehara/Sales-Prediction)
+### [Data Science in Production: A Sales Forecast Project Using Machine Learning for Rossmann](https://github.com/alanmaehara/Sales-Prediction)
 
 An end-to-end Data Science project with statistical theory explanations behind each section. Created five machine learning models to forecast sales for Rossmann, a major European drug-store chain firm. Predictions can be accessed by users through a bot from the smartphone app Telegram.
 
