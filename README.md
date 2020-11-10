@@ -10,9 +10,9 @@
     <a href="https://www.linkedin.com/in/ammaehara" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanmiti@gmail.com"></a>
 
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Who am I</h2>
 <p align="center">
-  <samp> A recent-graduated Economist specializated in Behavioral Economics and Statistics aspiring a Data Science career. 
+  <samp> An aspiring Data Scientist who is a recent graduate Economist specialized in Behavioral Economics and Statistics.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=alanmaehara" alt="https://github.com/alanmaehara" />
