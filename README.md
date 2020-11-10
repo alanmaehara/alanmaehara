@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="header.gif" alt="header"/>
+  <img src="header1.gif" alt="header"/>
 </div>
 &nbsp;
 
