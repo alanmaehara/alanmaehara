@@ -18,66 +18,80 @@
   <img src="https://komarev.com/ghpvc/?username=alanmaehara" alt="https://github.com/alanmaehara" />
 </p>
 
+---
+<h2 align="left"> ✔️ Skills</h2>
 
-<h2 align="center"> 🔭 Skills</h2>
-<p align="center"><b>Project Management Methods for Data Science - CRISP-DM</b></p>
-<p align="center"><b>Database Management and Data Cleaning</b></p>
-<p align="center"><b>Data Visualization and Storytelling methods</b></p>
-<p align="center"><b>Data Analysis:</b> Descriptive Statistics, Univariate, Bivariate, Multivariate Analysis</p>
-<p align="center"><b>Machine Learning Modeling</b>: Regression, Classification, Clustering</p>
-<p align="center"><b>Inferential Statistics</b></p>
-<p align="center"><b>Project Deployment</b></p>
-<p align="center"><b>Leadership for Cross-Cultural Teams</b></p>
+- **Project Management Methods for Data Science**: CRISP-DM, SEMMA
+- **Data Wrangling:** Database Management and Data Cleaning
+- **Data Visualization**: Encoding insighful data into charts, graphs, maps through storytelling techniques & methods
+- **Data Analysis**: Descriptive Statistics, Univariate, Bivariate, Multivariate Analysis
+- **Machine Learning Modeling**: Regression, Classification, Clustering
+- **Project Deployment**: Implementation of Machine Learning models to production
+- **Leadership for Cross-Cultural Teams**: Management of teams composed of international members with adaptation to diverse communication styles and culture backgrounds
 
-<h2 align="center"> 🔧 Tools</h2>
-<p align="center">
+---
+<h2 align="left"> 🔧 Tools</h2>
+<p align="left">
  <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>R</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Python</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>pandas</span><br><br>
         <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>NumPy</span><br><br>
         <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Matplotlib</span><br><br>
         <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
         <span>seaborn</span><br><br>
         <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>scikit-learn</span><br><br>
         <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
       </td>
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>PostGreSQL</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-   <tr valign="top">
-    <td width="25%" align="center">
+    <td width="20%" align="center">
         <span>Flask</span><br><br>
         <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Heroku</span><br><br>
         <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
-    </tr>
   </tbody>
 </table>
 </p>
+
+---
+<h2 align="left"> 📑 Main Projects </h2>
+
+#### [Does religion generate prosocial behavior?](https://github.com/alanmaehara/religious-prosocial-behavior)
+
+A multivariate linear regression modeling approach to measure religious prosocial behavior in economics experiments. In this paper, association between religion and prosocial behavior were investigated for 48 Buddhist practitioners in Japan. 
+
+Repository: https://github.com/alanmaehara/religious-prosocial-behavior
+
+#### [Data Science in Production: A Sales Forecast Project Using Machine Learning for Rossmann](https://github.com/alanmaehara/Sales-Prediction)
+
+An end-to-end Data Science project with statistical theory explanations behind each section. Created five machine learning models to forecast sales for Rossmann, a major European drug-store chain firm. Predictions can be accessed by users through a bot from the smartphone app Telegram.
+
+Repository: https://github.com/alanmaehara/Sales-Prediction
