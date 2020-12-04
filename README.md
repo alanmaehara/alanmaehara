@@ -96,7 +96,7 @@ An end-to-end Data Science project with statistical theory explanations behind e
 
 Repository: https://github.com/alanmaehara/Sales-Prediction
 
-### [Predicting Cardiovascular Diseases](https://github.com/alanmaehara/Sales-Prediction)
+### [Predicting Cardiovascular Diseases](https://github.com/alanmaehara/cardiovascular-analysis)
 
 A thorough Machine Learning project to predict cardiovascular diseases (CVD) for +70,000 patients across +10 variables. Statistical theory explanations for classification algorithms is provided.
 
