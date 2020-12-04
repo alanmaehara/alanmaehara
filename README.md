@@ -95,3 +95,9 @@ Repository: https://github.com/alanmaehara/religious-prosocial-behavior
 An end-to-end Data Science project with statistical theory explanations behind each section. Created five machine learning models to forecast sales for Rossmann, a major European drug-store chain firm. Predictions can be accessed by users through a bot from the smartphone app Telegram.
 
 Repository: https://github.com/alanmaehara/Sales-Prediction
+
+### [Predicting Cardiovascular Diseases](https://github.com/alanmaehara/Sales-Prediction)
+
+A thorough Machine Learning project to predict cardiovascular diseases (CVD) for +70,000 patients across +10 variables. Statistical theory explanations for classification algorithms is provided.
+
+Repository: https://github.com/alanmaehara/cardiovascular-analysis
