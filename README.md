@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://github.com/alanmaehara" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alanmaehara-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ammaehara" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ammaehara" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanmiti@gmail.com"></a>
+    <a href="alanmiti@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanmiti@gmail.com"></a>
 
 
 <h2 align="center"> 👨‍💻 Who am I</h2>
@@ -23,11 +23,13 @@
 
 - **Project Management Methods for Data Science**: CRISP-DM, SEMMA
 - **Data Wrangling:** Database Management and Data Cleaning
-- **Data Visualization**: Encoding insighful data into charts, graphs, maps through storytelling techniques & methods
+- **Data Visualization**: Encoding insightful data into charts, graphs, maps through storytelling techniques & methods
 - **Data Analysis**: Descriptive Statistics, Univariate, Bivariate, Multivariate Analysis
 - **Machine Learning Modeling**: Regression, Classification, Clustering
 - **Project Deployment**: Implementation of Machine Learning models to production
-- **Leadership for Cross-Cultural Teams**: Management of teams composed of international members with adaptation to diverse communication styles and culture backgrounds
+- **Leadership for Cross-Cultural Teams**: Management of teams composed of international members with adaptation to diverse communication styles and cultural backgrounds
+- **Version Control + Command Line**: Working proficiency with Git, Github, and the command line
+- **OS**: Working proficiency with Windows, Linux, iOS.
 
 ---
 <h2 align="left"> 🔧 Tools</h2>
