@@ -12,7 +12,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I</h2>
 <p align="center">
-  <samp> An aspiring Data Scientist who is a recent graduate Economist specialized in Behavioral Economics and Statistics, with +7yrs of leadership and volunteering experience in humanitarian fields in Brazil and Japan. 
+  <samp>Economist and Data Scientist specialized in Behavioral Economics and Statistics, with +7yrs of leadership and volunteering experience in humanitarian fields in Brazil and Japan. 
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=alanmaehara" alt="https://github.com/alanmaehara" />
