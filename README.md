@@ -51,7 +51,7 @@
       </td>
       <td width="20%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="https://numpy.org/images/logo.svg">
       </td>
       <td width="20%" align="center">
         <span>Matplotlib</span><br><br>
