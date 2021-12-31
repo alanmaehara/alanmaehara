@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="header.gif" alt="header"/>
+  <img src="header1.gif" alt="header"/>
 </div>
 &nbsp;
 
@@ -22,14 +22,14 @@
 <h2 align="left"> ✔️ Skills</h2>
 
 - **Project Management Methods for Data Science**: CRISP-DM, SEMMA
-- **Data Wrangling:** Database Management and Data Cleaning
+- **ETL & Data Science pipeline:** Database management and data extraction (py pipelines), data cleaning, data mining.
 - **Data Visualization**: Encoding insightful data into charts, graphs, maps through storytelling techniques & methods
-- **Data Analysis**: Descriptive Statistics, Univariate, Bivariate, Multivariate Analysis
+- **Statistics**: Descriptive, inference, experimental design, hypothesis testing.
 - **Machine Learning Modeling**: Regression, Classification, Clustering
 - **Project Deployment**: Implementation of Machine Learning models to production
-- **Leadership for Cross-Cultural Teams**: Management of teams composed of international members with adaptation to diverse communication styles and cultural backgrounds
 - **Version Control + Command Line**: Working proficiency with Git, Github, and the command line
 - **OS**: Working proficiency with Windows, Linux, iOS.
+- **Leadership for Cross-Cultural Teams**: Management of teams composed of international members with adaptation to diverse communication styles and cultural backgrounds
 
 ---
 <h2 align="left"> 🔧 Tools</h2>
@@ -79,6 +79,40 @@
       <td width="20%" align="center">
         <span>Heroku</span><br><br>
         <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Redshift</span><br><br>
+        <img height="64px" src="https://logowik.com/content/uploads/images/aws-redshift2026.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span>BigQuery</span><br><br>
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png">
+      </td>
+      </td>
+      <td width="20%" align="center">
+        <span>Apache Spark</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+      </td>
+    <td width="20%" align="center">
+        <span>Presto</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/presto.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Hive</span><br><br>
+        <img height="64px" src="https://hive.apache.org/images/hive_logo_medium.jpg">
+      <tr valign="top">
+      <td width="20%" align="center">
+        <span>Amazon S3</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Power BI</span><br><br>
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png">
+      </td>
+      </td>
+      <td width="20%" align="center">
+        <span>Google Data Studio</span><br><br>
+        <img height="64px" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg">
   </tbody>
 </table>
 </p>
@@ -92,13 +126,13 @@ A multivariate linear regression modeling approach to measure religious prosocia
 
 Repository: https://github.com/alanmaehara/religious-prosocial-behavior
 
-### [Data Science in Production: A Sales Forecast Project Using Machine Learning for Rossmann](https://github.com/alanmaehara/Sales-Prediction)
+### [A Guide on Machine Learning for Sales Forecast](https://github.com/alanmaehara/Sales-Prediction)
 
 An end-to-end Data Science project with statistical theory explanations behind each section. Created five machine learning models to forecast sales for Rossmann, a major European drug-store chain firm. Predictions can be accessed by users through a bot from the smartphone app Telegram.
 
 Repository: https://github.com/alanmaehara/Sales-Prediction
 
-### [Predicting Cardiovascular Diseases](https://github.com/alanmaehara/cardiovascular-analysis)
+### [A Guide on Machine Learning to predict Cardiovascular Diseases (CVD)](https://github.com/alanmaehara/cardiovascular-analysis)
 
 A thorough Machine Learning project to predict cardiovascular diseases (CVD) for +70,000 patients across +10 variables. Statistical theory explanations for classification algorithms is provided.
 
